@@ -1,0 +1,22 @@
+{
+  "lunch": 
+    [
+      {
+        "name": "Sandwich",
+        "price": 4,
+        "calories": 500
+      },
+      {
+        "name": "Bacon",
+        "price": 5,
+        "calories": 200
+      },
+      {
+        "name": "Salad",
+        "price": 6,
+        "calories": 50
+      }
+    ]
+  
+
+}
